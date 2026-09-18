@@ -69,7 +69,7 @@ function loop(): void {
                 operador = new Radiciacao();
                 console.log(num2 + "ª raiz = " + operador.calcular(num1, num2) + "\n");
                 break;
-
+            // TUNGSTÊNIO GARCIA!!!!!!!!!!!
             case 'bhaskara':
                 operador = new Bhaskara();
                 saida = operador.calcular(num1, num2, num3);
